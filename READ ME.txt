@@ -1,0 +1,1 @@
+This is a copy of flappy bird made in python using graphical user interface.It has one thing,you do not play as a bird,you play as a cube.
